@@ -74,3 +74,6 @@ Key areas of exploration and analysis in this project include, but are not limit
 **Regional Disparities:** Exploring differences in traffic (e.g., booking frequency) among various areas and investigating the underlying reasons for these disparities.
 
 This project aims to extract valuable information from the Airbnb dataset, contributing to a better understanding of the dynamics within the platform and the broader hospitality industry. The findings may be used for informed decision-making, strategic planning, and enhancing the Airbnb experience for both hosts and guests.
+
+![142826226-500c2bc7-5edb-4243-8aef-5900d6024aec](https://github.com/Mohitkhatri1902/Capstone-Project-EDA---AirBnb/assets/147745671/4f05b5e7-4696-4a13-a3e5-0170c7724871)
+
